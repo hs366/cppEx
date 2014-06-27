@@ -1,6 +1,8 @@
 //test a cpp program
 // anothere test for git  
 
+// new version with SSL authentication to git
+
 #include <iostream>
 
 using namespace std;
